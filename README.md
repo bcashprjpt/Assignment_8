@@ -23,7 +23,7 @@
 # * This method is used to request post method.
 # * it accept the user name and password from the user and check user is present or not. if the user is present it redirect to home page else move to the login page
 # 
-# 
+# Templates-
 # register.html:-
 # * This html page is used display the registration form 
 # 
